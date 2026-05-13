@@ -1,0 +1,13 @@
+---
+---
+@import "{{ site.theme }}";
+
+body {
+  background-color: #000000 !important;
+  color: #ffffff !important;
+}
+
+// 讓連結顏色在黑底上更明顯
+a {
+  color: #00ff00; 
+}
